@@ -32,7 +32,6 @@ shl_recommender/
 │   └── embeddings/
 │
 │── scripts/
-│── tests/
 │── requirements.txt
 │── Dockerfile
 │── README.md
