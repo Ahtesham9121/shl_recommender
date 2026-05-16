@@ -18,7 +18,6 @@ An intelligent SHL assessment recommendation system built with FastAPI, semantic
 
 ## Project Structure
 
-```text
 shl_recommender/
 │── app/
 │   ├── agent/
@@ -37,3 +36,10 @@ shl_recommender/
 │── requirements.txt
 │── Dockerfile
 │── README.md
+
+## Docker Setup
+
+Build the Docker image:
+
+```bash
+docker build -t shl-recommender .

@@ -146,7 +146,7 @@ class SHLRecommendationAgent:
 
         recommendations = []
 
-        for result in reranked[:10]:
+        for result in reranked[:8]:
 
             recommendations.append({
 
